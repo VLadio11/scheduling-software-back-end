@@ -1,0 +1,26 @@
+{ "_id" : ObjectId("5c4b68b7ff711560c757aeea"), "campus" : "SE", "days" : "T/R", "time" : "10:00AM-11:50AM", "crn" : "11239" }
+{ "_id" : ObjectId("5c4b68d0ff711560c757aeeb"), "campus" : "DL", "days" : "WEB", "time" : "2:00PM-3:50PM", "crn" : "11239" }
+{ "_id" : ObjectId("5c4b68f4ff711560c757aeec"), "campus" : "CA", "days" : "M/W", "time" : "09:00AM-11:50PM", "crn" : "12449" }
+{ "_id" : ObjectId("5c4b697bff711560c757aeed"), "campus" : "CA", "days" : "F", "time" : "12:00PM-01:50PM", "crn" : "12479" }
+{ "_id" : ObjectId("5c4b69a0ff711560c757aeee"), "campus" : "RC", "days" : "M/W", "time" : "10:00AM-11:50AM", "crn" : "12379" }
+
+
+Reading 115
+{ "_id" : ObjectId("5c4b67bdff711560c757aee5"), "campus" : "RC", "days" : "M/W", "time" : "11:00AM-12:50PM", "crn" : "11018" }
+{ "_id" : ObjectId("5c4b67daff711560c757aee6"), "campus" : "DL", "days" : "Web", "time" : "", "crn" : "11021" }
+{ "_id" : ObjectId("5c4b6804ff711560c757aee7"), "campus" : "CA", "days" : "T/R", "time" : "11:00AM-12:50PM", "crn" : "11038" }
+{ "_id" : ObjectId("5c4b6828ff711560c757aee8"), "campus" : "SY", "days" : "T/R", "time" : "03:00PM-04:50PM", "crn" : "11028" }
+{ "_id" : ObjectId("5c4b685aff711560c757aee9"), "campus" : "SE", "days" : "T/R", "time" : "10:00AM-11:50AM", "crn" : "17539" }
+
+
+Writing 121
+{ "_id" : ObjectId("5c4b6bdbff711560c757aeef"), "campus" : "DL", "days" : "Web", "time" : "", "crn" : "12379" }
+{ "_id" : ObjectId("5c4b6bf4ff711560c757aef0"), "campus" : "RC", "days" : "M/W", "time" : "10:00AM-11:50AM", "crn" : "12379" }
+{ "_id" : ObjectId("5c4b6c12ff711560c757aef1"), "campus" : "SE", "days" : "T/R", "time" : "09:00AM-10:50AM", "crn" : "12379" }
+{ "_id" : ObjectId("5c4b6c33ff711560c757aef2"), "campus" : "SY", "days" : "F", "time" : "02:00PM-03:50AM", "crn" : "12379" }
+
+Writing 227
+{ "_id" : ObjectId("5c4b6c43ff711560c757aef3"), "campus" : "SY", "days" : "F", "time" : "02:00PM-03:50AM", "crn" : "12379" }
+{ "_id" : ObjectId("5c4b6c4eff711560c757aef4"), "campus" : "SE", "days" : "T/R", "time" : "09:00AM-10:50AM", "crn" : "12379" }
+{ "_id" : ObjectId("5c4b6c60ff711560c757aef5"), "campus" : "RC", "days" : "M/W", "time" : "10:00AM-11:50AM", "crn" : "12379" }
+{ "_id" : ObjectId("5c4b6c6bff711560c757aef6"), "campus" : "DL", "days" : "Web", "time" : "", "crn" : "12379" }
